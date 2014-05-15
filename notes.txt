@@ -1,0 +1,7 @@
+Bit like using AJAX - tries to create responsive websites by only changing what needs to.
+
+A JS API - so you need to bind the JS to the HTML
+
+var app = angular.module('store', []);
+
+I am {{ 4 + 6}}.
